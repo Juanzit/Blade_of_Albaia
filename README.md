@@ -1,6 +1,6 @@
 # Blade of Albaia
 
-![Captura do Jogo](screenshot.png)
+![Captura do Jogo](imagens/screenshot.png)
 
 Jogo de plataforma desenvolvido por Juan Garcia para o processo seletivo da Kodland.
 
